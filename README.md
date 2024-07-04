@@ -1,5 +1,7 @@
 
-🚀 Tecnologias
+                       🚀 Tecnologias
+
+
 Este projeto foi desenvolvido com as tecnologias abaixo:
 
 NodeJS
@@ -9,4 +11,4 @@ Biblioteca bitcoinjs-lib
 Electrum
 💻 Projeto
 Este projeto permite criar uma Bitcoin Wallet no Bitcoin Blockchain.
-O código é simples, mas funcional. A Wallet foi criada no Bitcoin Testnet Faucet (bitcoin.networks.testnet) e vinculada no Electrum para gerenciar as transações.
+A Wallet foi criada no Bitcoin Testnet Faucet (bitcoin.networks.testnet) e vinculada no Electrum para gerenciar as transações.
